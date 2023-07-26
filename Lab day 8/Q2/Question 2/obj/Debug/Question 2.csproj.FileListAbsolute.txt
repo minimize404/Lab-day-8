@@ -1,0 +1,8 @@
+E:\Visual Studio\Question 2\Question 2\bin\Debug\Question 2.exe.config
+E:\Visual Studio\Question 2\Question 2\bin\Debug\Question 2.exe
+E:\Visual Studio\Question 2\Question 2\bin\Debug\Question 2.pdb
+E:\Visual Studio\Question 2\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+E:\Visual Studio\Question 2\Question 2\obj\Debug\Question 2.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Question 2\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Question 2\Question 2\obj\Debug\Question 2.exe
+E:\Visual Studio\Question 2\Question 2\obj\Debug\Question 2.pdb
